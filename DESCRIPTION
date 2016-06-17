@@ -1,0 +1,24 @@
+Package: riigiteenused
+Type: Package
+Title: Riigiteenuste andmete sisselugemine
+Version: 1.1
+Date: 2016-01-26
+Author: Risto Hinno
+Maintainer: <ristohinno@gmail.com>
+Description: Laeb riigiteenuste andmed (https://www.riigiteenused.ee/api/et/all) andmed alla ning viib laiast formaadist pikka formaati
+License: Creative Commons License
+Depends: data.table
+LazyData: TRUE
+RoxygenNote: 5.0.1
+devtools: :use_package("reshape2")
+Built: R 3.2.3; ; 2016-06-15 10:39:34 UTC; windows
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: riigiteenused
+RemoteUsername: RRisto
+RemoteRef: master
+RemoteSha: 764c51c39a4141dbda55a5bd37613e8a7c1a451c
+GithubRepo: riigiteenused
+GithubUsername: RRisto
+GithubRef: master
+GithubSHA1: 764c51c39a4141dbda55a5bd37613e8a7c1a451c
